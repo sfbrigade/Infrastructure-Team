@@ -10,6 +10,15 @@ Adhere to all clauses of the [OSS Manifesto](http://ossmanifesto.org/). These
 are repeated below for convenience (and to add clarity to each component).
 Those clauses which we added are demarked with "(added)".
 
+You can and should advertise that your repo meets these minimum requirements
+for an accessible repo with a badge in your README!
+
+Display ![https://github.com/sfbrigade/Infrastructure-Team/blob/master/project-spec.md](https://img.shields.io/badge/sfbrigade-project%20spec-brightgreen.svg) by including the following:
+
+```
+![https://github.com/sfbrigade/Infrastructure-Team/blob/master/project-spec.md](https://img.shields.io/badge/sfbrigade-project%20spec-brightgreen.svg)
+```
+
 ### Have a readme file
 
 The project should have a README file that clearly describes:
