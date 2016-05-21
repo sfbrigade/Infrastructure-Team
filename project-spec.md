@@ -52,6 +52,12 @@ List all core team members somewhere in the README.
 
 Have a CONTRIBUTORS file that lists all of the contributors in alphabetical order.
 
+### Have a Code of Conduct
+
+Have a code of `CODE_OF_CONDUCT` in your repository that describes how contributors and users interact. A great example that you can use wholesale is the [Contributor Covenant](http://contributor-covenant.org/) that is used by many large projects.
+
+Have a CONTRIBUTORS file that lists all of the contributors in alphabetical order.
+
 ### Have a license file
 
 Have a LICENSE file that describes how the code can be used. See
